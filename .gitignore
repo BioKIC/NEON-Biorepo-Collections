@@ -1,12 +1,3 @@
-# travis ci
-.travis.yml
-
-# VSCode venv
-.vscode/
-
-# all scripts
-*.py
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
