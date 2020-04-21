@@ -1,7 +1,5 @@
 # NEON-Biorepo-Collections ![Build Status](https://travis-ci.com/BioKIC/NEON-Biorepo-Collections.svg?branch=api)
 
-
-
 Simple, static API exposing information on the [NEON Biorepository Portal](https://biorepo.neonscience.org/) collections.
 
 Current version: 0.0 (updated April 2020)
@@ -17,7 +15,6 @@ The Biorepository missions include storing, curating and managing samples and da
 The collection information available in this repository pertains to NEON-collected samples that are physically housed at the Biorepository at ASU and elsewhere, and to the associated data available at the [Biorepository Data Portal](https://biorepo.neonscience.org/).
 
 ## API
-
 
 ### Get a full list of collections with specimens deposited at the NEON Biorepository at Arizona State University
 
