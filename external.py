@@ -2,9 +2,9 @@ import os, csv, json
 # ***** Configure generator ******
 version = "0"
 groupBy = "collections"
-structure = os.path.join("api", "v"+version, groupBy)
+structure = os.path.join("api", "v"+version, groupBy, "external")
 
-inputFilename = "all-colls-biorepo-20200416.csv"
+inputFilename = "all-colls-external-20200428.csv"
 outputFilename = "index.json"
 
 inputfile = os.path.abspath(os.path.join("data", inputFilename))
@@ -23,4 +23,4 @@ with open(inputfile) as csvFile:
   # # Write data to JSON file
   with open(outputfile, "w") as jsonFile:
     jsonFile.write(json.dumps(root, indent=4))
-  print("Created JSON file for NEON biorepo collections")
+  print("Created JSON file for external collections")

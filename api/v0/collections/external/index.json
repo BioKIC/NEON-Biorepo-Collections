@@ -1,0 +1,74 @@
+{
+    "collections": [
+        {
+            "neon": "NEON specimens, but not physically located at Biorepo",
+            "category": "External Collections",
+            "taxon": "Vertebrates",
+            "collid": "43",
+            "institutioncode": "CSVColl",
+            "collectioncode": "Vertebrates",
+            "fullname": "Consortium of Small Vertebrate Collections",
+            "neonsampleclass": "NULL",
+            "description": "NULL",
+            "dwcaurl": "NULL",
+            "gbif": "not published",
+            "institutionhomepage": "https://csvcoll.org"
+        },
+        {
+            "neon": "NEON specimens, but not physically located at Biorepo",
+            "category": "External Collections",
+            "taxon": "Insects",
+            "collid": "44",
+            "institutioncode": "EMEC",
+            "collectioncode": "EMEC",
+            "fullname": "Essig Museum of Entomology",
+            "neonsampleclass": "essig_beetles",
+            "description": "NULL",
+            "dwcaurl": "NULL",
+            "gbif": "not published",
+            "institutionhomepage": "https://essig.berkeley.edu/"
+        },
+        {
+            "neon": "NEON specimens, but not physically located at Biorepo",
+            "category": "External Collections",
+            "taxon": "Mammals",
+            "collid": "74",
+            "institutioncode": "MSB",
+            "collectioncode": "MAMM",
+            "fullname": "Museum of Southwestern Biology - Mammal specimens",
+            "neonsampleclass": "NULL",
+            "description": "NULL",
+            "dwcaurl": "NULL",
+            "gbif": "not published",
+            "institutionhomepage": "http://www.msb.unm.edu/divisions/mammals/index.html"
+        },
+        {
+            "neon": "non-NEON data, external sources aggregated in portal",
+            "category": "External Collections",
+            "taxon": "Arthropods",
+            "collid": "37",
+            "institutioncode": "SCAN",
+            "collectioncode": "NULL",
+            "fullname": "SCAN Portal Network Arthropod Specimens",
+            "neonsampleclass": "NULL",
+            "description": "NULL",
+            "dwcaurl": "NULL",
+            "gbif": "not published",
+            "institutionhomepage": "http://scan-bugs.org/portal/"
+        },
+        {
+            "neon": "non-NEON data, external sources aggregated in portal",
+            "category": "External Collections",
+            "taxon": "Plants",
+            "collid": "2",
+            "institutioncode": "SEINet",
+            "collectioncode": "Plants",
+            "fullname": "SEINet Portal Network Botanical Specimens",
+            "neonsampleclass": "NULL",
+            "description": "NULL",
+            "dwcaurl": "NULL",
+            "gbif": "not published",
+            "institutionhomepage": "http://swbiodiversity.org"
+        }
+    ]
+}
