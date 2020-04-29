@@ -15,11 +15,19 @@ The Biorepository missions include storing, curating and managing samples and da
 The collection information available in this repository pertains to NEON-collected samples that are physically housed at the Biorepository at ASU and elsewhere, and to the associated data available at the [Biorepository Data Portal](https://biorepo.neonscience.org/).
 
 ## API
+---------
 
 ### Get a full list of collections with specimens deposited at the NEON Biorepository at Arizona State University
 
 Use `https://biokic.github.io/NEON-Biorepo-Collections/api/v0/collections/`
 
-## CSV Data
+### Get a full list of external collections with data published in portal (both NEON and non-NEON)
 
-Explore or download full lists from [data directory](https://github.com/BioKIC/NEON-Biorepo-Collections/tree/master/data). The most current version of each dataset will be dated in the root, and archived versions will be found in the [archive subdirectory](https://github.com/BioKIC/NEON-Biorepo-Collections/tree/master/data/archive/) subdirectory.
+Use `https://biokic.github.io/NEON-Biorepo-Collections/api/v0/collections/external`
+
+
+## CSV Data
+-----------
+
+Explore or download full lists from [data directory](./data). The most current version of each dataset will be dated in the root, and archived versions will be found in the [archive subdirectory](./data/archive/) subdirectory.
+
