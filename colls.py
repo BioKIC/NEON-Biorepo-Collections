@@ -1,10 +1,10 @@
 import os, csv, json
 # ***** Configure generator ******
-version = "0"
+version = "0_1"
 groupBy = "collections"
 structure = os.path.join("api", "v"+version, groupBy)
 
-inputFilename = "all-colls-biorepo-20200416.csv"
+inputFilename = "all-colls-biorepo-20200622-manual.csv"
 outputFilename = "index.json"
 
 inputfile = os.path.abspath(os.path.join("data", inputFilename))
