@@ -1,0 +1,6 @@
+neon,category,taxon,collid,institutioncode,collectioncode,fullname,neonsampleclass,description,dwcaurl,gbif,institutionhomepage
+"NEON specimens, but not physically located at Biorepo","External Collections",Vertebrates,43,CSVColl,Vertebrates,"Consortium of Small Vertebrate Collections",NULL,NULL,NULL,"not published",https://csvcoll.org
+"NEON specimens, but not physically located at Biorepo","External Collections",Insects,44,EMEC,EMEC,"Essig Museum of Entomology",essig_beetles,NULL,NULL,"not published",https://essig.berkeley.edu/
+"NEON specimens, but not physically located at Biorepo","External Collections",Mammals,74,MSB,MAMM,"Museum of Southwestern Biology - Mammal specimens",NULL,NULL,NULL,"not published",http://www.msb.unm.edu/divisions/mammals/index.html
+"non-NEON data, external sources aggregated in portal","External Collections",Arthropods,37,SCAN,NULL,"SCAN Portal Network Arthropod Specimens",NULL,NULL,NULL,"not published",http://scan-bugs.org/portal/
+"non-NEON data, external sources aggregated in portal","External Collections",Plants,2,SEINet,Plants,"SEINet Portal Network Botanical Specimens",NULL,NULL,NULL,"not published",http://swbiodiversity.org
