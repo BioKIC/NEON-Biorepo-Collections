@@ -1,6 +1,5 @@
 {
-  "collections": [
-    {
+  "collections": [{
       "sampletype": "Fluid-Preserved Sample",
       "available": "TRUE",
       "neontheme": ["Organisms, Populations, and Communities"],
