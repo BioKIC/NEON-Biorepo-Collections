@@ -4,7 +4,7 @@ version = "1"
 groupBy = "collections"
 structure = os.path.join("api", "v"+version, groupBy)
 
-inputFilename = "all-colls-biorepo-20200622-manual.csv"
+inputFilename = "all-colls-biorepo-20200910.csv"
 outputFilename = "index.json"
 
 inputfile = os.path.abspath(os.path.join("data", inputFilename))
