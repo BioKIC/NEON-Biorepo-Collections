@@ -1,6 +1,6 @@
 import os, csv, json
 # ***** Configure generator ******
-version = "0_1"
+version = "1"
 groupBy = "collections"
 structure = os.path.join("api", "v"+version, groupBy)
 
