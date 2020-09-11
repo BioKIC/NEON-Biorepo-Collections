@@ -2,7 +2,7 @@
 
 Simple, static API exposing information on the [NEON Biorepository Portal](https://biorepo.neonscience.org/) collections.
 
-Current version: 1 (updated September 2020).
+Current version: 1.0 (updated September 2020).
 
 Changes can be implemented at any time. Most current information, as well as archived versions of the data will be available. [Changelog](https://biokic.github.io/NEON-Biorepo-Collections/changes.md).
 
@@ -18,11 +18,11 @@ The collection information available in this repository pertains to NEON-collect
 
 ### Get a full list of collections with specimens deposited at the NEON Biorepository at Arizona State University
 
-Use `https://biokic.github.io/NEON-Biorepo-Collections/api/v1/collections/`
+Use `https://biokic.github.io/NEON-Biorepo-Collections/api/v1_0/collections/`
 
 ### Get a full list of external collections with data published in portal (both NEON and non-NEON)
 
-Use `https://biokic.github.io/NEON-Biorepo-Collections/api/v0_1/collections/external`
+Use `https://biokic.github.io/NEON-Biorepo-Collections/api/v1_0/collections/external`
 
 ## CSV Data
 

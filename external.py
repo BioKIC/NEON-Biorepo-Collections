@@ -1,10 +1,10 @@
 import os, csv, json
 # ***** Configure generator ******
-version = "0_1"
+version = "1_0"
 groupBy = "collections"
 structure = os.path.join("api", "v"+version, groupBy, "external")
 
-inputFilename = "all-colls-external-20200622.csv"
+inputFilename = "all-colls-external-20200911.csv"
 outputFilename = "index.json"
 
 inputfile = os.path.abspath(os.path.join("data", inputFilename))
