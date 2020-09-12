@@ -137,6 +137,23 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.00013.001"
         },
         {
+            "available": "TRUE",
+            "neontheme": "Organisms, Populations, and Communities",
+            "category": "Invertebrates",
+            "highertaxon": "Terrestrial Invertebrates",
+            "lowertaxon": "Other Invertebrates",
+            "sampletype": "Dry Sample",
+            "collid": "4",
+            "institutioncode": "ASU",
+            "collectioncode": "NEON-IV",
+            "fullname": "NEON Biorepository Invertebrate Collections at Arizona State University",
+            "neonsampleclass": "",
+            "description": "Pinned invertebrate reference collection specimens for NEON invertebrate bycatch samples for the development of site-level invertebrate species checklists.",
+            "dwcaurl": "NULL",
+            "gbif": "not published",
+            "neondataproduct": "https://biorepo.neonscience.org/"
+        },
+        {
             "available": "FALSE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Invertebrates",
@@ -239,7 +256,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.20120.001"
         },
         {
-            "available": "TRUE",
+            "available": "FALSE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Invertebrates",
             "highertaxon": "Aquatic Invertebrates",
@@ -375,7 +392,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10043.001"
         },
         {
-            "available": "TRUE",
+            "available": "FALSE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Invertebrates",
             "highertaxon": "Terrestrial Invertebrates",
@@ -392,7 +409,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10043.001"
         },
         {
-            "available": "TRUE",
+            "available": "FALSE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Invertebrates",
             "highertaxon": "Terrestrial Invertebrates",
@@ -409,7 +426,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10041.001"
         },
         {
-            "available": "TRUE",
+            "available": "FALSE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Invertebrates",
             "highertaxon": "Terrestrial Invertebrates",
@@ -443,24 +460,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10043.001"
         },
         {
-            "available": "TRUE",
-            "neontheme": "Organisms, Populations, and Communities",
-            "category": "Invertebrates",
-            "highertaxon": "Terrestrial Invertebrates",
-            "lowertaxon": "Other Invertebrates",
-            "sampletype": "Dry Sample",
-            "collid": "4",
-            "institutioncode": "ASU",
-            "collectioncode": "NEON-IV",
-            "fullname": "NEON Biorepository Invertebrate Collections at Arizona State University",
-            "neonsampleclass": "",
-            "description": "Pinned invertebrate reference collection specimens for NEON invertebrate bycatch samples for the development of site-level invertebrate species checklists.",
-            "dwcaurl": "NULL",
-            "gbif": "not published",
-            "neondataproduct": "https://biorepo.neonscience.org/"
-        },
-        {
-            "available": "TRUE",
+            "available": "FALSE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Invertebrates",
             "highertaxon": "Terrestrial Invertebrates",
@@ -477,7 +477,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10092.001"
         },
         {
-            "available": "TRUE",
+            "available": "FALSE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Invertebrates",
             "highertaxon": "Aquatic Invertebrates",
@@ -511,7 +511,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.20219.001"
         },
         {
-            "available": "TRUE",
+            "available": "FALSE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Invertebrates",
             "highertaxon": "Aquatic Invertebrates",
@@ -528,7 +528,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.20219.001"
         },
         {
-            "available": "TRUE",
+            "available": "FALSE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Invertebrates",
             "highertaxon": "Aquatic Invertebrates",
@@ -545,7 +545,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.20219.001"
         },
         {
-            "available": "TRUE",
+            "available": "FALSE",
             "neontheme": "Biogeochemistry, Organisms, Populations, and Communities",
             "category": "Microbes",
             "highertaxon": "Microbes",
@@ -613,7 +613,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10107.001"
         },
         {
-            "available": "TRUE",
+            "available": "FALSE",
             "neontheme": "Biogeochemistry, Organisms, Populations, and Communities",
             "category": "Microbes",
             "highertaxon": "Microbes",
@@ -902,7 +902,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10072.001"
         },
         {
-            "available": "TRUE",
+            "available": "FALSE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Vertebrates",
             "highertaxon": "Vertebrates",
