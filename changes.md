@@ -1,5 +1,15 @@
 ## Data changes
 
+# 2020-17, v1.0
+
+- Additional external collections
+- Minor character encoding fixes
+
+# 2020-06, v1.0
+
+- Minor spelling fixes
+- Availability fixes
+
 ## 2020-06, v0.1
 
 ### All Collections
