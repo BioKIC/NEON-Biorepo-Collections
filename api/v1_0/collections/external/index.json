@@ -7,6 +7,23 @@
             "highertaxon": "NULL",
             "lowertaxon": "NULL",
             "sampletype": "NULL",
+            "collid": "82",
+            "institutioncode": "CMNH",
+            "collectioncode": "INV",
+            "fullname": "Carnegie Museum of Natural History, Invertebrate Zoology Collection",
+            "neonsampleclass": "NULL",
+            "description": "NULL",
+            "dwcaurl": "NULL",
+            "gbif": "not published",
+            "neondataproduct": "https://carnegiemnh.org/research/invertebrate-zoology/"
+        },
+        {
+            "available": "NULL",
+            "neontheme": "NULL",
+            "category": "External Collections",
+            "highertaxon": "NULL",
+            "lowertaxon": "NULL",
+            "sampletype": "NULL",
             "collid": "43",
             "institutioncode": "CSVColl",
             "collectioncode": "Vertebrates",
@@ -129,12 +146,12 @@
             "collid": "80",
             "institutioncode": "UMICH",
             "collectioncode": "SOIC",
-            "fullname": "University of Michigan Soils from the NRCS site characterization",
+            "fullname": "University of Michigan Biological Station - Sample Archive Facility in Ehlers, Initial Characterization Soils Archive",
             "neonsampleclass": "NULL",
             "description": "NULL",
             "dwcaurl": "NULL",
             "gbif": "not published",
-            "neondataproduct": "NULL"
+            "neondataproduct": "https://mfield.umich.edu/soil_archive_request"
         }
     ]
 }

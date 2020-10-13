@@ -473,7 +473,7 @@
             "neonsampleclass": "tck_pathogenresults_in.testingID",
             "description": "Aqueous whole genomic DNA from a single tick nymph collected as part of the NEON tick sampling protocol. Used for pathogen testing and archived at -80 degrees C.",
             "dwcaurl": "NULL",
-            "gbif": "published",
+            "gbif": "not published",
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10092.001"
         },
         {
@@ -970,7 +970,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10072.001"
         },
         {
-            "available": "TRUE",
+            "available": "FALSE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Vertebrates",
             "highertaxon": "Vertebrates",
@@ -983,7 +983,7 @@
             "neonsampleclass": "bet_archivepooling_in.subsampleID.mam",
             "description": "Mammal voucher collected as bycatch in a pitfall trap trap deployed for approximatately 2 weeks as per the NEON carabid sampling protocol. Archived in 95% ethanol and pooled across traps from the same plot and sampling dates.",
             "dwcaurl": "NULL",
-            "gbif": "published",
+            "gbif": "not published",
             "neondataproduct": "https://biorepo.neonscience.org/"
         },
         {
