@@ -49,7 +49,7 @@
             "description": "Unsorted bulk microalgae sample collected as part of the NEON periphyton, seston, and phytoplankton collection protocols conducted three times annually. Archived in 2% high-iodine Lugol's solution (seston and phytoplankton) or 0.5% glutaraldehyde (epipsammon, epipelon, epiphyton, epilithon, epixylon).",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-AMIC-CP_DwC-A.zip",
             "gbif": "not published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.20166.001"
+            "neondataproduct": "NULL"
         },
         {
             "available": "TRUE",
@@ -66,7 +66,7 @@
             "description": "Freeze-dried unsorted bulk microalgae sample collected as part of the NEON periphyton, seston, and phytoplankton collection protocols conducted three times annually.",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-AMIC-FD_DwC-A.zip",
             "gbif": "not published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.20166.001"
+            "neondataproduct": "NULL"
         },
         {
             "available": "TRUE",
@@ -146,11 +146,11 @@
             "collid": "4",
             "institutioncode": "ASU",
             "collectioncode": "NEON-IV",
-            "fullname": "NEON Biorepository Invertebrate Collections at Arizona State University",
+            "fullname": "NEON Invertebrate Voucher Collection at Arizona State University",
             "neonsampleclass": "",
             "description": "Pinned invertebrate reference collection specimens for NEON invertebrate bycatch samples for the development of site-level invertebrate species checklists.",
-            "dwcaurl": "NULL",
-            "gbif": "not published",
+            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/ASU-NEON-IV_DwC-A.zip",
+            "gbif": "published",
             "neondataproduct": "https://biorepo.neonscience.org/"
         },
         {
@@ -171,7 +171,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.20120.001, https://data.neonscience.org/data-products/DP1.20120.001"
         },
         {
-            "available": "FALSE",
+            "available": "TRUE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Invertebrates",
             "highertaxon": "Aquatic Invertebrates",
@@ -183,9 +183,9 @@
             "fullname": "Benthic Macroinvertebrate Collection (DNA Extracts)",
             "neonsampleclass": "inv_dnaExtraction_in.dnaSampleID",
             "description": "Genomic extract from homogenized bulk macroinvertebrates collected as part of the second of three annual NEON benthic macroinvertebrate sampling events. Used for metabarcoding and archived at -80 degrees C .",
-            "dwcaurl": "NULL",
-            "gbif": "not published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.20126.001"
+            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-BMIC-DNA_DwC-A.zip",
+            "gbif": "published",
+            "neondataproduct": "NULL"
         },
         {
             "available": "FALSE",
@@ -256,7 +256,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.20120.001"
         },
         {
-            "available": "FALSE",
+            "available": "TRUE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Invertebrates",
             "highertaxon": "Aquatic Invertebrates",
@@ -268,8 +268,8 @@
             "fullname": "Benthic Macroinvertebrate Collection (Unsorted Bulk Sample)",
             "neonsampleclass": "inv_fielddata_in.geneticSampleID",
             "description": "Bulk unsorted macroinvertebrates collected as part of the first and third three annual NEON benthic macroinvertebrate sampling events. Oligochaetes and chironomids have been removed. Archived in 70-95% ethanol.",
-            "dwcaurl": "NULL",
-            "gbif": "not published",
+            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-BMIC-UB_DwC-A.zip",
+            "gbif": "published",
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.20120.001"
         },
         {
@@ -302,9 +302,9 @@
             "fullname": "Carabid Collection (DNA Extracts)",
             "neonsampleclass": "bet_expertTaxonomistID_in.geneticSampleID",
             "description": "Genomic extract from the leg of a pinned carabid voucher collected in a pitfall trap trap deployed for approximatately 2 weeks as per the NEON carabid sampling protocol. Used for barcoding and archived at -80 degrees C.",
-            "dwcaurl": "NULL",
-            "gbif": "not published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.10020.001"
+            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-CARC-DNA_DwC-A.zip",
+            "gbif": "published",
+            "neondataproduct": "NULL"
         },
         {
             "available": "TRUE",
@@ -387,9 +387,9 @@
             "fullname": "Mosquito Collection (Bulk Identified)",
             "neonsampleclass": "mos_archivepooling_in.archiveVialIDList",
             "description": "Single-species bulk mosquito sample collected as part of the NEON CO2 mosquito trapping protocol conducted every 2-4 weeks for 2 nights. Archived in liquid nitrogen.",
-            "dwcaurl": "NULL",
-            "gbif": "not published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.10043.001"
+            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-MOSC-BI_DwC-A.zip",
+            "gbif": "published",
+            "neondataproduct": "NULL"
         },
         {
             "available": "FALSE",
@@ -477,7 +477,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10092.001"
         },
         {
-            "available": "FALSE",
+            "available": "TRUE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Invertebrates",
             "highertaxon": "Aquatic Invertebrates",
@@ -489,9 +489,9 @@
             "fullname": "Zooplankton Collection (DNA Extracts)",
             "neonsampleclass": "zoo_dnaExtraction_in.dnaSampleID",
             "description": "Genomic extract from homogenized bulk zooplankton samples collected as part of the NEON zooplankton sampling protocol conducted 3 times annually at lakes. Used for metabarcoding and archived at -80 degrees C .",
-            "dwcaurl": "NULL",
-            "gbif": "not published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.20221.001"
+            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-ZOOC-DNA_DwC-A.zip",
+            "gbif": "published",
+            "neondataproduct": "NULL"
         },
         {
             "available": "TRUE",
@@ -507,7 +507,7 @@
             "neonsampleclass": "zoo_fieldData_in.sampleID",
             "description": "Unsorted bulk zooplankton sample collected as part of the NEON zooplankton sampling protocol conducted 3 times annually at lakes. Subsamples for taxonomic identification have been removed. Archived in 70% ethanol.",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-ZOOC-RB_DwC-A.zip",
-            "gbif": "not published",
+            "gbif": "published",
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.20219.001"
         },
         {
@@ -528,7 +528,7 @@
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.20219.001"
         },
         {
-            "available": "FALSE",
+            "available": "TRUE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Invertebrates",
             "highertaxon": "Aquatic Invertebrates",
@@ -540,8 +540,8 @@
             "fullname": "Zooplankton Collection (Unsorted Bulk Sample)",
             "neonsampleclass": "zoo_fieldData_in.sampleID.dna",
             "description": "Unsorted bulk zooplankton sample collected as part of the NEON zooplankton sampling protocol conducted 3 times annually at lakes. Archived in 70% ethanol.",
-            "dwcaurl": "NULL",
-            "gbif": "not published",
+            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-ZOOC-UB_DwC-A.zip",
+            "gbif": "published",
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.20219.001"
         },
         {
@@ -593,7 +593,7 @@
             "description": "Bulk soil subsample collected from up to 30 cm depth as part of NEON terrestrial soil sampling protocols conducted 3 times annually. Soil sample was homogenized across 3 samples taken from a single plot. Archived in liquid nitrogen.",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-SOMC-BS_DwC-A.zip",
             "gbif": "not published",
-            "neondataproduct": "https://data.neonscience.org/documents/10179/1883155/NEON.DOC.014048vM/6708d96d-3198-fba5-7854-b9aa9b2a4925"
+            "neondataproduct": "NULL"
         },
         {
             "available": "TRUE",
@@ -660,7 +660,7 @@
             "neonsampleclass": "apc_voucher_in.sampleID",
             "description": "Dry herbarium voucher specimen collected as part of the NEON aquatic clip harvest protocol conducted annually at wadeable streams and 3 times annually at rivers and lakes.",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-APLC-HVSS_DwC-A.zip",
-            "gbif": "not published",
+            "gbif": "published",
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.20072.001"
         },
         {
@@ -674,10 +674,10 @@
             "institutioncode": "NEON",
             "collectioncode": "APLC-HVCH",
             "fullname": "Aquatic Plant, Bryophyte, Lichen, and Macroalgae Collection (Herbarium Vouchers [Clip Harvests])",
-            "neonsampleclass": "apl_domainLab_in.sampleIDplant",
+            "neonsampleclass": "apl_domainLab_in.sampleIDplant,apl_domainLab_in.sampleIDplantChem",
             "description": "Dry herbarium voucher specimen collected as part of the NEON aquatic point count protocol conducted 1-3 times annually at wadeable streams.",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-APLC-HVCH_DwC-A.zip",
-            "gbif": "not published",
+            "gbif": "published",
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.20066.001"
         },
         {
@@ -694,7 +694,7 @@
             "neonsampleclass": "apc_perTaxon_in.sampleIDplant",
             "description": "Dry herbarium voucher specimen collected as part of the NEON aquatic standard sample protocol conducted 3 times annually at wadeable streams.",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-APLC-HVPC_DwC-A.zip",
-            "gbif": "not published",
+            "gbif": "published",
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.20072.001"
         },
         {
@@ -710,9 +710,9 @@
             "fullname": "Terrestrial Plant Collection (Belowground Biomass [Megapit])",
             "neonsampleclass": "mpr_perrootsample_in.archiveID",
             "description": "Sample of belowground biomass collected as part of the NEON megapit soil sampling protocol that occurred once at the initiation of the site. Archived dried and ground at room temperature.",
-            "dwcaurl": "NULL",
-            "gbif": "not published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.10066.001"
+            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-TPLC-BBM_DwC-A.zip",
+            "gbif": "published",
+            "neondataproduct": "NULL"
         },
         {
             "available": "TRUE",
@@ -728,7 +728,7 @@
             "neonsampleclass": "bbc_chemistryPooling_in.bgcArchiveID",
             "description": "Sample of belowground biomass collected at a maximum depth of 30 cm as part of the standard NEON terrestrial plant biomass survey protocols conducted every five years. Only live biomass is archived and stored dried and ground at room temperature.",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-TPLC-BBS_DwC-A.zip",
-            "gbif": "not published",
+            "gbif": "published",
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10067.001"
         },
         {
@@ -745,7 +745,7 @@
             "neonsampleclass": "cfc_chemistrySubsampling_in.archiveSampleID",
             "description": "Canopy foliage sample from a single species at sites dominated by woody tree cover or bulk herbaceous biomass clips at sites dominated by herbaceous vegetation. Samples collected every five years as part of the NEON canopy foliage protocols. Stored dried and ground at room temperature.",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-TPLC-CF_DwC-A.zip",
-            "gbif": "not published",
+            "gbif": "published",
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10026.001"
         },
         {
@@ -778,8 +778,8 @@
             "fullname": "Terrestrial Plant Collection (Leaf Tissue)",
             "neonsampleclass": "div_geneticarchive_in.geneticSampleID",
             "description": "Leaf tissue sample collected from an individual of a focal NEON phenological survey species. Archived at -80 degrees C.",
-            "dwcaurl": "NULL",
-            "gbif": "not published",
+            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-TPLC-LT_DwC-A.zip",
+            "gbif": "published",
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10058.001"
         },
         {
@@ -796,8 +796,25 @@
             "neonsampleclass": "ltr_chemistrySubsampling_in.archiveSampleID",
             "description": "Sample of litterfall (shed leaves and needles, reproductive parts, and fine woody debris with butt-end diameter < 2 cm) collected from elevated traps as part of the standard NEON litterfall survey protocols conducted every five years at forested sites. Archived dried and ground at room temperature.",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-TPLC-LF_DwC-A.zip",
-            "gbif": "not published",
+            "gbif": "published",
             "neondataproduct": "https://data.neonscience.org/data-products/DP1.10033.001"
+        },
+        {
+            "available": "NULL",
+            "neontheme": "NULL",
+            "category": "Prototype and Legacy NEON Samples",
+            "highertaxon": "NULL",
+            "lowertaxon": "NULL",
+            "sampletype": "NULL",
+            "collid": "81",
+            "institutioncode": "NEON",
+            "collectioncode": "OPAL",
+            "fullname": "Prototype and Legacy NEON Samples",
+            "neonsampleclass": "NULL",
+            "description": "NULL",
+            "dwcaurl": "NULL",
+            "gbif": "not published",
+            "neondataproduct": "NULL"
         },
         {
             "available": "TRUE",
@@ -810,7 +827,7 @@
             "institutioncode": "NEON",
             "collectioncode": "FISC-DNA",
             "fullname": "Fish Collection (DNA Extracts)",
-            "neonsampleclass": "fsh_perFish_in.dnaSampleID",
+            "neonsampleclass": "fsh_perFish_in.dnaSampleID,mam_barcoding_in.dnaSubsampleID.fsh",
             "description": "Genomic extract from a fin clip of a fish collected from NEON electrofishing, gill-nets or mini-fyke nets protocols implemented twice annually in wadeable streams and lakes. Archived at -80 degrees C.",
             "dwcaurl": "NULL",
             "gbif": "not published",
@@ -899,10 +916,10 @@
             "description": "Blood sample from a small mammal collected as part of the NEON small mammal box trapping protocol conducted for 3 nights 4-6 times annually. Archived in liquid nitrogen.",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-MAMC-BL_DwC-A.zip",
             "gbif": "published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.10072.001"
+            "neondataproduct": "NULL"
         },
         {
-            "available": "FALSE",
+            "available": "TRUE",
             "neontheme": "Organisms, Populations, and Communities",
             "category": "Vertebrates",
             "highertaxon": "Vertebrates",
@@ -912,11 +929,11 @@
             "institutioncode": "NEON",
             "collectioncode": "MAMC-DNA",
             "fullname": "Mammal Collection (DNA Extracts)",
-            "neonsampleclass": "TBD-off",
+            "neonsampleclass": "mam_barcoding_in.dnaSubsampleID.mam",
             "description": "Aqueous whole genomic DNA from small mammal ear tissue and blood samples collected as part of the NEON small mammal box trapping protocol conducted for 3 nights 4-6 times annually. Used for pathogen testing and/or barcoding and archived at -80 degrees C.",
-            "dwcaurl": "NULL",
-            "gbif": "not published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.10076.001"
+            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-MAMC-DNA_DwC-A.zip",
+            "gbif": "published",
+            "neondataproduct": "NULL"
         },
         {
             "available": "TRUE",
@@ -933,7 +950,7 @@
             "description": "Ear tissue punch sample from a small mammal collected as part of the NEON small mammal box trapping protocol conducted for 3 nights 4-6 times annually. Archived in liquid nitrogen.",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-MAMC-EA_DwC-A.zip",
             "gbif": "published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.10072.001"
+            "neondataproduct": "NULL"
         },
         {
             "available": "TRUE",
@@ -950,7 +967,7 @@
             "description": "Fecal sample collected from a small mammal as part of the NEON small mammal box trapping protocol conducted for 3 nights 4-6 times annually. Archived in liquid nitrogen.",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-MAMC-FE_DwC-A.zip",
             "gbif": "published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.10072.001"
+            "neondataproduct": "NULL"
         },
         {
             "available": "TRUE",
@@ -967,7 +984,7 @@
             "description": "Hair and/or whisker sample collected from a small mammal as part of the NEON small mammal box trapping protocol conducted for 3 nights 4-6 times annually. Archived at -80 degrees C.",
             "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-MAMC-HA_DwC-A.zip",
             "gbif": "published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.10072.001"
+            "neondataproduct": "NULL"
         },
         {
             "available": "FALSE",
@@ -1012,13 +1029,13 @@
             "sampletype": "Frozen Sample",
             "collid": "19",
             "institutioncode": "NEON",
-            "collectioncode": "MAMC-VDP",
-            "fullname": "Mammal Collection (Vouchers [Standard Sampling at Diversity Plots])",
+            "collectioncode": "MAMC-VOS",
+            "fullname": "Mammal Collection (Vouchers [Outside of Standard Sampling])",
             "neonsampleclass": "mam_voucher_in.voucherSampleID.mam",
             "description": "Small mammal voucher collected incidentally from a standard diversity plot as part of the NEON small mammal box trapping protocol conducted for one night 4-6 times annually. Prepared as a study skin and skull (or full skeleton) or archived in 95% ethanol.",
-            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-MAMC-VDP_DwC-A.zip",
+            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-MAMC-VOS_DwC-A.zip",
             "gbif": "published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.10072.001"
+            "neondataproduct": "NULL"
         },
         {
             "available": "TRUE",
@@ -1029,13 +1046,13 @@
             "sampletype": "Frozen Sample",
             "collid": "28",
             "institutioncode": "NEON",
-            "collectioncode": "MAMC-VPP",
-            "fullname": "Mammal Collection (Vouchers [Standard Sampling at Pathogen Plots])",
+            "collectioncode": "MAMC-VSS",
+            "fullname": "Mammal Collection (Vouchers [Standard Sampling])",
             "neonsampleclass": "mam_pertrapnight_in.voucherSampleID",
             "description": "Small mammal voucher collected incidentally from a pathogen plot as part of the NEON small mammal box trapping protocol conducted for 3 nights 4-6 times annually. Prepared as a study skin and skull (or full skeleton) or archived in 95% ethanol.",
-            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-MAMC-VPP_DwC-A.zip",
+            "dwcaurl": "https://biorepo.neonscience.org/portal/content/dwca/NEON-MAMC-VSS_DwC-A.zip",
             "gbif": "published",
-            "neondataproduct": "https://data.neonscience.org/data-products/DP1.10072.001"
+            "neondataproduct": "NULL"
         }
     ]
 }
