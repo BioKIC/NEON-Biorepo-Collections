@@ -1,6 +1,13 @@
 ## Data changes
 
-# 2020-17, v1.0
+# 2021-04, v1.0
+
+- Main "External" category now divided in two:
+
+1. "Additional NEON Collections": collections belonging to NEON, but hosted in different institutions other than ASU
+2. "Other Collections from NEON sites": collections not related to NEON, but with samples collected in the same localities that NEON has
+
+# 2020-07, v1.0
 
 - Additional external collections
 - Minor character encoding fixes
