@@ -2,7 +2,7 @@
 
 Simple, static API exposing information on the [NEON Biorepository Portal](https://biorepo.neonscience.org/) collections.
 
-Current version: 1.0 (updated October 2020).
+Current version: 1.0 (updated April 2021).
 
 Changes can be implemented at any time. Most current information, as well as archived versions of the data will be available. [Changelog](https://biokic.github.io/NEON-Biorepo-Collections/changes.md).
 
